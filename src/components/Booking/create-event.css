@@ -1,0 +1,61 @@
+.booking{
+    padding: 2rem;
+    border-radius: 0.5rem;
+    border-radius: 1px solid rgb(229,231,235);
+    background-color: #FEF6EB;
+    width: fit-content;
+
+}
+body{
+    overflow-x: hidden;
+}
+.booking_top h3 {
+  font-size: 2rem;
+  font-weight: 700;
+}
+.booking_top span{
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: var(--text-color);
+}
+.booking_top{
+    padding-bottom: 2rem;
+    border-top: 3px solid white;
+}
+.booking_form {
+  padding-top: 2rem;
+
+}
+.booking_form h5{
+    margin-bottom: 1rem;
+}
+.booking_form input{
+    width: 100%;
+    padding: 0.5rem;
+    border-radius:.5rem ;
+    color: var(--heading-color);
+    font-size: 1rem;
+    border: 1px solid var(--secondary-color);
+    border-bottom: 3px solid rgb(229,231,235);
+
+}
+#address{
+    width: 100%;
+   
+    padding: 0.5rem;
+    border-radius:.5rem ;
+    color: var(--heading-color);
+    font-size: 1rem;
+    border: 1px solid var(--secondary-color);
+    border-bottom: 3px solid rgb(229,231,235);
+}
+select option{
+    overflow: auto;
+}
+.booking_form input:focus{
+    outline: none;
+}
+.booking_info-form{
+    padding: 1rem;
+    border: 1px solid rgb(229,231,235);
+}

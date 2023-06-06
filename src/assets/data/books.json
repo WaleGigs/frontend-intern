@@ -1,0 +1,109 @@
+[
+  {
+    "title": "Wedding Party",
+    "city": "",
+    "address": "Harju maakond, Tallinn, Haabersti linnaosa, Astangu tn",
+    "distance": 300,
+    "maxGroupSize": 10,
+    "desc": "this is the description",
+    "photo": "/tour-img/img1.jpeg",
+    "featured": true
+  },
+  {
+    "title": "Bali, Indonesia",
+    "city": "Bali",
+    "address": "Harju maakond, Tallinn, Haabersti linnaosa, Astangu tn",
+    "distance": 400,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+   
+
+    "photo": "/tour-images/img4.jpeg",
+    "featured": true
+  },
+  {
+    "title": "Snowy Mountains, Thailand",
+    "city": "Bangkok",
+    "address": "Harju maakond, Tallinn, Haabersti linnaosa, Astangu tn",
+    "distance": 500,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+   
+
+    "photo": "/tour-images/img8.jpeg",
+    "featured": true
+  },
+  {
+    "title": "Beautiful Sunrise Party",
+    "city": "Estonia",
+    "address": "Somewhere in Thailand",
+    "distance": 200,
+    "maxGroupSize": 9,
+    "desc": "this is the description",
+   
+
+    "photo": "/tour-images/img2.jpeg",
+    "featured": true
+  },
+  {
+    "title": "Hookup Party",
+    "city": "Bali",
+    "address": "Harju maakond, Tallinn, Haabersti linnaosa, Astangu tn",
+    "distance": 700,
+    "maxGroupSize": 12,
+    "desc": "this is the description",
+    "photo": "/event-images/img6.jpeg",
+    "featured": true
+  },
+  {
+    "title": "Cherry Blossoms Spring",
+    "city": "Tokyo",
+    "address": "Somewhere in Japan",
+    "distance": 590,
+    "maxGroupSize": 28,
+    "desc": "this is the description",
+    "photo": "/event-images/img10.jpeg",
+    "featured": true
+  },
+  {
+    "title": "Mind's Talk",
+    "city": "Tallin",
+    "address": "Harju maakond, Tallinn, Haabersti linnaosa, Astangu tn",
+    "distance": 500,
+    "price": 129,
+    "maxGroupSize": 14,
+    "desc": "this is the description",
+    "photo": "/event-images/img9.jpeg",
+    "featured": true
+  },
+  {
+    "title": "Richard's Anniversary",
+    "city": "Liverpool",
+    "address": "Harju maakond, Tallinn, Astangu tn",
+    "distance": 500,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "photo": "/event-images/img13.jpeg",
+    "featured": true
+  },
+  {
+    "title": "Mount's Tech Event",
+    "city": "Sylhet",
+    "address": "Somewhere in Sylhet",
+    "distance": 100,
+    "maxGroupSize": 5,
+    "desc": "this is the description",
+    "photo": "/event-images/img8.jpeg",
+    "featured": false
+  },
+  {
+    "title": "beach sister eves",
+    "city": "Chittagong",
+    "address": "Harju maakond, Tallinn, Haabersti linnaosa, Astangu tn",
+    "distance": 500,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "photo": "/event-images/img7.jpeg",
+    "featured": false
+  }
+]
